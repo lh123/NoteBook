@@ -59,7 +59,7 @@ export default {
 <style>
 #notes-list .container {
     height: calc(100% - 137px);
-    max-height: calc(100%-137px);
+    max-height: calc(100% - 137px);
     width: 100%;
     overflow: auto;
     padding: 0px;
